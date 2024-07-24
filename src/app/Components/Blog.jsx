@@ -35,7 +35,7 @@ const Blog = () => {
   return (
     <UpdateFollower mouseOptions={{
        
-      backgroundColor: "black",
+      backgroundColor: "black", 
       zIndex: 99999,
       followSpeed: 1.5,
       mixBlendMode: "darken",
